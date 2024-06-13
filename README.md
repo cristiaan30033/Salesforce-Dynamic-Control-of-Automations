@@ -2,7 +2,7 @@
 
 In the realm of Salesforce automation tools, there exists a potent means to streamline business operations by simplifying manual processes. These tools, whether declarative or programmatic, ranging from Flows to Apex triggers, offer a robust mechanism for enhancing efficiency within your workflows. However, a critical challenge in crafting well-structured automation lies in achieving optimal execution. How can one construct automations on Salesforce that run smoothly yet offer precise control over their activation and deactivation? In the next paragraphs I will describe some ways you can use Force.com developer or Admin to add a dynamic control on those automations and validations. 
 
-## Configure Your Salesforce DX Project
+## Automations
 
 The significance of execution control cannot be overstated. By clearly delineating all possible execution paths during the development phase, you ensure that your operational logic functions effectively. But once this documentation is in place, what comes next? Execution control empowers you to halt or bypass any automation whenever necessary, be it for data modifications, migration tasks, testing scenarios, or stealthy deployment to select user groups. 
 
